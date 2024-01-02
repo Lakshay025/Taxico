@@ -1,2 +1,3 @@
-# Taxico
+# Taxico a user friendly website to book your rides anytime from anywhere.
 This project is made by Lakshay Chauhan.
+The purpose is to make this TaxiCo application to resolve the problems which are currently faced by the people right now occurring at the time of traveling. This TaxiCo service provides us good environment, safety, security and comfortability to our every customer. Every type and size of taxi will be available to our customers like Hatchback, Sedan, SUV, and luxury cars. That’s why the User can book according to their requirement. Here the best thing is that the service which is not provided by another taxi company is provided here, suppose any user is going anywhere and coming back within an hour then only one side rent will be charged to customer.
